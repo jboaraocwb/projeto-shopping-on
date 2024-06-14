@@ -10,6 +10,11 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 <h2>Esse projeto foi criado pra Desktop e Mobile </h2>
+<p>Desktop</p>
+<img src="https://github.com/jboaraocwb/projeto-shopping-on/blob/main/assents/desktop.png?raw=true">
+<br>
+<p>Mobile</p>
+
 
 
 

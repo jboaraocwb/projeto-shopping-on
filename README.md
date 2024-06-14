@@ -11,9 +11,12 @@
 
 <h2>Esse projeto foi criado pra Desktop e Mobile </h2>
 <p>Desktop</p>
+<br>
 <img src="https://github.com/jboaraocwb/projeto-shopping-on/blob/main/assents/desktop.png?raw=true">
 <br>
 <p>Mobile</p>
+<br>
+<img src="https://github.com/jboaraocwb/projeto-shopping-on/blob/main/assents/mobile.png?raw=true">
 
 
 
